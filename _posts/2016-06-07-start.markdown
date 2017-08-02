@@ -2,7 +2,7 @@
 layout: post
 title:  “个人博客”
 date:   2016-06-07 10:07:13 +0800
-categories: jekyll update
+categories: jccai update
 ---
 
 
